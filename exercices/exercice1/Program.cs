@@ -7,7 +7,7 @@ namespace ExerciceChienChat
     {
         public void Aboyer()
         {
-            Console.WriteLine("Woof!");
+            Console.WriteLine("Woof! Woof!");
         }
     }
 
@@ -16,7 +16,7 @@ namespace ExerciceChienChat
     {
         public void Miauler()
         {
-            Console.WriteLine("Meow!");
+            Console.WriteLine("Meow! Meow!");
         }
     }
 
